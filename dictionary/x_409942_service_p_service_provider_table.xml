@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Service Provider Table" max_length="40" name="x_409942_service_p_service_provider_table" type="collection"/>
+</database>
